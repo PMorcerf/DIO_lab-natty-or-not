@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: "E-Book: IA Generativa, uma visão do ChatGPT 3.5 sem edição."
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Buscando saber mais sobre as IAs Generativas, dentro do contexto do Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3, iniciei uma conversa com o ChatGPT 3.5 sobre a temática e o atual ponto de vista do próprio (até a data de hoje).
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Chat GPT 3.5
+- MSWord
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo desenvolvido sob um roteiro criado pelo assistente de IA no início da nossa conversa a meu pedido.
+Assim o desenrolar das explicações foi guiada por esse roteiro.
+Minha participação se deu somente nos questionamentos referentes aos temas roteirizados.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresentamos um e-book semi-automatizado, devido a intervenção humana para formatação do documento.
+Porém o conteúdo não foi editado, mantendo sua integridade da hora das informações concedidas pelo assistente de IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Esse desafio foi interessante....inicialmente me fez navegar sobre as ferramentas de IA para descobrir um vies para a criatividade.
+Mas sobre desenvolver o e-book, me senti estranhamente confortável mas também com um certo incômodo sobre FakeNatty.
+Não consegui atribuir a autencidade do produto como minha autoria, mas a experiência da produção foi transformadora.
 
-### Exemplos e Insigths
+Espero que gostem!
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
